@@ -1,0 +1,185 @@
+Error | TestAPI.Startup | 2017-12-13 15:08:29.4386 | Errroorrrr!
+Error | CKSource.CKFinder.Connector.Core.CommandHandler | 2017-12-13 15:08:58.3153 | The CreateFolder command has failed - InvalidRequest (CSRF validation has failed).| CKSource.CKFinder.Connector.Core.Exceptions.InvalidRequestException: CSRF validation has failed
+   at CKSource.CKFinder.Connector.Core.CommandHandler.<ExecuteAsync>d__12.MoveNext()    at CKSource.CKFinder.Connector.Core.CommandHandler.<ExecuteAsync>d__12.MoveNext()
+Error | CKSource.CKFinder.Connector.Core.CommandHandler | 2017-12-13 15:16:27.3363 | The CreateFolder command has failed - InvalidRequest (CSRF validation has failed).| CKSource.CKFinder.Connector.Core.Exceptions.InvalidRequestException: CSRF validation has failed
+   at CKSource.CKFinder.Connector.Core.CommandHandler.<ExecuteAsync>d__12.MoveNext()    at CKSource.CKFinder.Connector.Core.CommandHandler.<ExecuteAsync>d__12.MoveNext()
+Error | CKSource.CKFinder.Connector.Core.CommandHandler | 2017-12-13 15:23:36.4064 | The FileUpload command has failed - InvalidRequest (POST content is missing).| CKSource.CKFinder.Connector.Core.Exceptions.InvalidRequestException: POST content is missing
+   at CKSource.CKFinder.Connector.Core.Commands.FileUploadParameters.<InitializeAsync>d__13.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at CKSource.CKFinder.Connector.Core.Commands.FileUpload.FileUploadCommandImpl.<ExecuteAsync>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at CKSource.CKFinder.Connector.Core.CommandHandler.<ExecuteAsync>d__12.MoveNext()    at CKSource.CKFinder.Connector.Core.Commands.FileUploadParameters.<InitializeAsync>d__13.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at CKSource.CKFinder.Connector.Core.Commands.FileUpload.FileUploadCommandImpl.<ExecuteAsync>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at CKSource.CKFinder.Connector.Core.CommandHandler.<ExecuteAsync>d__12.MoveNext()
+Error | CKSource.CKFinder.Connector.Core.CommandHandler | 2017-12-13 15:30:51.5600 | The FileUpload command has failed - InvalidRequest (POST content is missing).| CKSource.CKFinder.Connector.Core.Exceptions.InvalidRequestException: POST content is missing
+   at CKSource.CKFinder.Connector.Core.Commands.FileUploadParameters.<InitializeAsync>d__13.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at CKSource.CKFinder.Connector.Core.Commands.FileUpload.FileUploadCommandImpl.<ExecuteAsync>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at CKSource.CKFinder.Connector.Core.CommandHandler.<ExecuteAsync>d__12.MoveNext()    at CKSource.CKFinder.Connector.Core.Commands.FileUploadParameters.<InitializeAsync>d__13.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at CKSource.CKFinder.Connector.Core.Commands.FileUpload.FileUploadCommandImpl.<ExecuteAsync>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at CKSource.CKFinder.Connector.Core.CommandHandler.<ExecuteAsync>d__12.MoveNext()
+Error | CKSource.CKFinder.Connector.Core.CommandHandler | 2017-12-13 15:34:25.5202 | The FileUpload command has failed - InvalidRequest (POST content is missing).| CKSource.CKFinder.Connector.Core.Exceptions.InvalidRequestException: POST content is missing
+   at CKSource.CKFinder.Connector.Core.Commands.FileUploadParameters.<InitializeAsync>d__13.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at CKSource.CKFinder.Connector.Core.Commands.FileUpload.FileUploadCommandImpl.<ExecuteAsync>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at CKSource.CKFinder.Connector.Core.CommandHandler.<ExecuteAsync>d__12.MoveNext()    at CKSource.CKFinder.Connector.Core.Commands.FileUploadParameters.<InitializeAsync>d__13.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at CKSource.CKFinder.Connector.Core.Commands.FileUpload.FileUploadCommandImpl.<ExecuteAsync>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at CKSource.CKFinder.Connector.Core.CommandHandler.<ExecuteAsync>d__12.MoveNext()
+Error | CKSource.CKFinder.Connector.Core.CommandHandler | 2017-12-13 15:48:25.1942 | The FileUpload command has failed - InvalidRequest (POST content is missing).| CKSource.CKFinder.Connector.Core.Exceptions.InvalidRequestException: POST content is missing
+   at CKSource.CKFinder.Connector.Core.Commands.FileUploadParameters.<InitializeAsync>d__13.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at CKSource.CKFinder.Connector.Core.Commands.FileUpload.FileUploadCommandImpl.<ExecuteAsync>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at CKSource.CKFinder.Connector.Core.CommandHandler.<ExecuteAsync>d__12.MoveNext()    at CKSource.CKFinder.Connector.Core.Commands.FileUploadParameters.<InitializeAsync>d__13.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at CKSource.CKFinder.Connector.Core.Commands.FileUpload.FileUploadCommandImpl.<ExecuteAsync>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at CKSource.CKFinder.Connector.Core.CommandHandler.<ExecuteAsync>d__12.MoveNext()
+Error | CKSource.CKFinder.Connector.Core.CommandHandler | 2017-12-13 15:49:17.4106 | The FileUpload command has failed - InvalidRequest (POST content is missing).| CKSource.CKFinder.Connector.Core.Exceptions.InvalidRequestException: POST content is missing
+   at CKSource.CKFinder.Connector.Core.Commands.FileUploadParameters.<InitializeAsync>d__13.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at CKSource.CKFinder.Connector.Core.Commands.FileUpload.FileUploadCommandImpl.<ExecuteAsync>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at CKSource.CKFinder.Connector.Core.CommandHandler.<ExecuteAsync>d__12.MoveNext()    at CKSource.CKFinder.Connector.Core.Commands.FileUploadParameters.<InitializeAsync>d__13.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at CKSource.CKFinder.Connector.Core.Commands.FileUpload.FileUploadCommandImpl.<ExecuteAsync>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at CKSource.CKFinder.Connector.Core.CommandHandler.<ExecuteAsync>d__12.MoveNext()
+Error | CKSource.CKFinder.Connector.Core.CommandHandler | 2017-12-13 15:51:06.6327 | The FileUpload command has failed - InvalidRequest (POST content is missing).| CKSource.CKFinder.Connector.Core.Exceptions.InvalidRequestException: POST content is missing
+   at CKSource.CKFinder.Connector.Core.Commands.FileUploadParameters.<InitializeAsync>d__13.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at CKSource.CKFinder.Connector.Core.Commands.FileUpload.FileUploadCommandImpl.<ExecuteAsync>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at CKSource.CKFinder.Connector.Core.CommandHandler.<ExecuteAsync>d__12.MoveNext()    at CKSource.CKFinder.Connector.Core.Commands.FileUploadParameters.<InitializeAsync>d__13.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at CKSource.CKFinder.Connector.Core.Commands.FileUpload.FileUploadCommandImpl.<ExecuteAsync>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at CKSource.CKFinder.Connector.Core.CommandHandler.<ExecuteAsync>d__12.MoveNext()
+Error | CKSource.CKFinder.Connector.Core.CommandHandler | 2017-12-13 16:01:42.2448 | The FileUpload command has failed - InvalidRequest (POST content is missing).| CKSource.CKFinder.Connector.Core.Exceptions.InvalidRequestException: POST content is missing
+   at CKSource.CKFinder.Connector.Core.Commands.FileUploadParameters.<InitializeAsync>d__13.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at CKSource.CKFinder.Connector.Core.Commands.FileUpload.FileUploadCommandImpl.<ExecuteAsync>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at CKSource.CKFinder.Connector.Core.CommandHandler.<ExecuteAsync>d__12.MoveNext()    at CKSource.CKFinder.Connector.Core.Commands.FileUploadParameters.<InitializeAsync>d__13.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at CKSource.CKFinder.Connector.Core.Commands.FileUpload.FileUploadCommandImpl.<ExecuteAsync>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at CKSource.CKFinder.Connector.Core.CommandHandler.<ExecuteAsync>d__12.MoveNext()
+Error | CKSource.CKFinder.Connector.Core.CommandHandler | 2017-12-13 16:09:15.9621 | The FileUpload command has failed - InvalidRequest (POST content is missing).| CKSource.CKFinder.Connector.Core.Exceptions.InvalidRequestException: POST content is missing
+   at CKSource.CKFinder.Connector.Core.Commands.FileUploadParameters.<InitializeAsync>d__13.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at CKSource.CKFinder.Connector.Core.Commands.FileUpload.FileUploadCommandImpl.<ExecuteAsync>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at CKSource.CKFinder.Connector.Core.CommandHandler.<ExecuteAsync>d__12.MoveNext()    at CKSource.CKFinder.Connector.Core.Commands.FileUploadParameters.<InitializeAsync>d__13.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at CKSource.CKFinder.Connector.Core.Commands.FileUpload.FileUploadCommandImpl.<ExecuteAsync>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at CKSource.CKFinder.Connector.Core.CommandHandler.<ExecuteAsync>d__12.MoveNext()
+Error | CKSource.CKFinder.Connector.Core.CommandHandler | 2017-12-13 16:10:49.7430 | The FileUpload command has failed - InvalidRequest (POST content is missing).| CKSource.CKFinder.Connector.Core.Exceptions.InvalidRequestException: POST content is missing
+   at CKSource.CKFinder.Connector.Core.Commands.FileUploadParameters.<InitializeAsync>d__13.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at CKSource.CKFinder.Connector.Core.Commands.FileUpload.FileUploadCommandImpl.<ExecuteAsync>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at CKSource.CKFinder.Connector.Core.CommandHandler.<ExecuteAsync>d__12.MoveNext()    at CKSource.CKFinder.Connector.Core.Commands.FileUploadParameters.<InitializeAsync>d__13.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at CKSource.CKFinder.Connector.Core.Commands.FileUpload.FileUploadCommandImpl.<ExecuteAsync>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at CKSource.CKFinder.Connector.Core.CommandHandler.<ExecuteAsync>d__12.MoveNext()
